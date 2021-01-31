@@ -1,6 +1,6 @@
 # reset-launchpad
 
 ```sh
-brew tap rinrinrin2002/tap
+brew tap rinrinrin4046/tap
 brew install reset-launchpad
 ```
